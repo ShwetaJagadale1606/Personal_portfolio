@@ -3,4 +3,4 @@
 
 ### 1)Open a Folder of the Project 
 ### 2)Open the terminal for that project folder 
-### 3)
+### 3) Run the Command :  `npm install`
